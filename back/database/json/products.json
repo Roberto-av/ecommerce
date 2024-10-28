@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 5s",
+    "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+    "category": "smartphones",
+    "price": 199.99,
+    "discountPercentage": 11.85,
+    "rating": 3.92,
+    "stock": 65,
+    "tags": ["smartphones", "apple"],
+    "brand": "Apple",
+    "image": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/1.png"
+  },
+  {
+    "id": 2,
+    "title": "iPhone 6",
+    "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+    "category": "smartphones",
+    "price": 299.99,
+    "discountPercentage": 4.54,
+    "rating": 3.76,
+    "stock": 99,
+    "tags": ["smartphones", "apple"],
+    "brand": "Apple",
+    "image": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/1.png"
+  },
+  {
+    "id": 3,
+    "title": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+    "category": "smartphones",
+    "price": 1099.99,
+    "discountPercentage": 18.3,
+    "rating": 3.42,
+    "stock": 26,
+    "tags": ["smartphones", "apple"],
+    "brand": "Apple",
+    "image": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/1.png"
+  },
+  {
+    "id": 4,
+    "title": "iPhone X",
+    "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+    "category": "smartphones",
+    "price": 899.99,
+    "discountPercentage": 14.19,
+    "rating": 4.96,
+    "stock": 99,
+    "tags": ["smartphones", "apple"],
+    "brand": "Apple",
+    "image": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/1.png"
+  },
+  {
+    "id": 5,
+    "title": "Oppo A57",
+    "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+    "category": "smartphones",
+    "price": 249.99,
+    "discountPercentage": 12.17,
+    "rating": 3.1,
+    "stock": 76,
+    "tags": ["smartphones", "oppo"],
+    "brand": "Oppo",
+    "image": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/1.png"
+  },
+  {
+    "id": 6,
+    "title": "Oppo F19 Pro Plus",
+    "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+    "category": "smartphones",
+    "price": 399.99,
+    "discountPercentage": 15.62,
+    "rating": 2.57,
+    "stock": 92,
+    "tags": ["smartphones", "oppo"],
+    "brand": "Oppo",
+    "image": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/1.png"
+  }
+]
